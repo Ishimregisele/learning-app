@@ -7,7 +7,7 @@ const Solar = (props) => {
             <h2>
             {props.text}
             </h2>
-            <a className="underline underline-offset-4" href="">Schedule a Virtual Consulation</a>
+            <a className="underline underline-offset-4" href="">Schedulegjhffff a Virtual Consulation</a>
         </div>
     </>
   )
